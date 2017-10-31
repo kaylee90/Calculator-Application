@@ -1,0 +1,14 @@
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\obj\Debug\calculator App.csproj.CoreCompileInputs.cache
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\bin\Debug\calculator App.exe.config
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\bin\Debug\calculator App.exe
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\bin\Debug\calculator App.pdb
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\obj\Debug\calculator App.exe
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\obj\Debug\calculator App.pdb
+C:\Users\Logan Gaines\source\repos\calculator App\calculator App\obj\Debug\calculator App.csprojResolveAssemblyReference.cache
+C:\Users\Kaylee\source\repos\calculator App\calculator App\bin\Debug\calculator App.exe.config
+C:\Users\Kaylee\source\repos\calculator App\calculator App\bin\Debug\calculator App.exe
+C:\Users\Kaylee\source\repos\calculator App\calculator App\bin\Debug\calculator App.pdb
+C:\Users\Kaylee\source\repos\calculator App\calculator App\obj\Debug\calculator App.csprojResolveAssemblyReference.cache
+C:\Users\Kaylee\source\repos\calculator App\calculator App\obj\Debug\calculator App.csproj.CoreCompileInputs.cache
+C:\Users\Kaylee\source\repos\calculator App\calculator App\obj\Debug\calculator App.exe
+C:\Users\Kaylee\source\repos\calculator App\calculator App\obj\Debug\calculator App.pdb
